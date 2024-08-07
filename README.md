@@ -4,4 +4,7 @@
 ## 版本日志
 
 1.20240806第一次提交
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wwwwffv&show_icons=true&theme=tokyonight) 
+:blush:
+![](https://github-readme-activity-graph.cyclic.app/graph?username=wwwwffv&theme=dracula)
+
+1
